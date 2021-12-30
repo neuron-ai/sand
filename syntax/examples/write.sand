@@ -1,0 +1,4 @@
+write "Hello World" ? This should not be shown (it's a comment)
+write 'Hooray! This is working'
+write `Wow, it works!
+Ooh, a multiline string with backticks`

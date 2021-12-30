@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180px" height="180px">
+    <path transform="scale(20 10) translate(0 -1.2)" d="M5.5 1.5 L8.5 4.5 Q9 5 8.5 5.5 L5.5 8.5 Q5 9 4.5 8.5 L 1.5 5.5 Q1 5 1.5 4.5 L4.5 1.5 Q 5 1 5.5 1.5z" fill="#ecc513" />
+    <path transform="scale(20 10) translate(0 0.8)"  d="M5.5 1.5 L8.5 4.5 Q9 5 8.5 5.5 L5.5 8.5 Q5 9 4.5 8.5 L 1.5 5.5 Q1 5 1.5 4.5 L4.5 1.5 Q 5 1 5.5 1.5z" fill="#ecc51399" />
+    <path transform="scale(20 10) translate(0 2.8)"  d="M5.5 1.5 L8.5 4.5 Q9 5 8.5 5.5 L5.5 8.5 Q5 9 4.5 8.5 L 1.5 5.5 Q1 5 1.5 4.5 L4.5 1.5 Q 5 1 5.5 1.5z" fill="#ecc51344" />
+    <text font-family="'Century Gothic'" x="47" y="149" font-size="45" fill="#ecc513">
+        Sand
+    </text>
+</svg>

@@ -4,7 +4,9 @@
 		".vscode",
 		".vscode-insiders",
 		"*.go",
+		"*.py",
 		"*.exe",
-		"CODE_OF_CONDUCT.md"
+		"CODE_OF_CONDUCT.md",
+		"lib/stdlib/README.md"
 	]
 }
