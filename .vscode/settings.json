@@ -1,0 +1,10 @@
+{
+	"cSpell.ignorePaths": [
+		".git",
+		".vscode",
+		".vscode-insiders",
+		"*.go",
+		"*.exe",
+		"CODE_OF_CONDUCT.md"
+	]
+}
