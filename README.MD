@@ -23,6 +23,8 @@ _Sand_ is the newest, dynamically typed, interpreted programming language.
 
 ### Table of Contents
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/76f7e0464d1a47ba92de22ef938f9cdd)](https://app.codacy.com/gh/neuron-ai/sand?utm_source=github.com&utm_medium=referral&utm_content=neuron-ai/sand&utm_campaign=Badge_Grade_Settings)
+
 - [History](#history)
 - [Project Stats](#project-stats)
 
