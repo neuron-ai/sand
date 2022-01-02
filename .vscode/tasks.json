@@ -6,12 +6,22 @@
 		{
 			"label": "Set Git Hooks Location",
 			"type": "shell",
-			"command": "git config core.hooksPath .githooks"	
+			"command": "git config core.hooksPath .githooks"
 		},
 		{
 			"label": "New Here",
 			"type": "shell",
-			"command": "python admin/scripts/new_here.py",
+			"command": "python admin/scripts/new_here.py"
+		},
+		{
+			"label": "Build File",
+			"type": "shell",
+			"command": "go build \"${file}\"",
+			"problemMatcher": [],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
 		}
 	]
 }

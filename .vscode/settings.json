@@ -8,5 +8,6 @@
 		"*.exe",
 		"CODE_OF_CONDUCT.md",
 		"lib/stdlib/README.md"
-	]
+	],
+	"go.testFlags": ["-parallel=3"]
 }

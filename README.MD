@@ -8,13 +8,12 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/build-planning-1dbf1f"/>
-  <img src="https://app.codacy.com/project/badge/Grade/f7493b02fab8437e8e5fafeaea478e50"/>
+  <img src="https://api.codacy.com/project/badge/Grade/76f7e0464d1a47ba92de22ef938f9cdd"/>
   <img src="https://badges.pufler.dev/created/Neuron-AI/Sand"/>
   <img src="https://badges.pufler.dev/updated/Neuron-AI/Sand"/>
   <img src="https://badges.pufler.dev/visits/Neuron-AI/Sand"/>
-   <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Neuron-AI/Sand/total">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Neuron-AI/Sand?style=social">
-<p/>
+</p>
 <br/>
 
 _Sand_ is the newest, dynamically typed, interpreted programming language.
